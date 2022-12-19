@@ -3,7 +3,8 @@
 
 I'm a dev from Belfast with over four years industry experience, at the start of this year I decided to pivot my career into the web3 space.
 
-My main interest right now is Solidity development. I'm keen to work on smart contracts for cool products😎
+My main interest right now is Solidity development and Developer Relations sort of roles. 
+I'm keen to work on smart contracts and create cool content😎
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/taylorferran/">
