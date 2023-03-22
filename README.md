@@ -1,10 +1,8 @@
 
 👋 I'm Taylor 👋
 
-I'm a dev from Belfast with over four years industry experience, at start of 2022 I decided to pivot my career into the web3 space.
+I'm a dev from Belfast currently working in developer relations for Etherspot.
 
-My main interest right now is Solidity development. 
-I'm keen to work on smart contracts and create cool content😎
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/taylorferran/">
