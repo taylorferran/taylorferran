@@ -3,6 +3,8 @@
 
 I'm a dev from Belfast currently working in developer relations for Etherspot.
 
+Account Abstraction is cool !!!
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/taylorferran/">
