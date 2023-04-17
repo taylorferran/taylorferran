@@ -3,7 +3,7 @@
 
 I'm a dev from Belfast currently working in developer relations for Etherspot.
 
-Account Abstraction is cool !!!
+Account Abstraction is cool
 
 
 <div id="badges">
